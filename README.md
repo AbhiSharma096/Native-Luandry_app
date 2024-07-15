@@ -26,7 +26,7 @@ I'm a React-Native developer...
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/AbhiSharma096/Native-Luandry_app
 ```
 
 Go to the project directory
@@ -67,7 +67,7 @@ To deploy this project run
 
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushg07/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/piug_07)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Abhishek_abs_01)
 
 
 ## Features
